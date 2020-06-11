@@ -5,7 +5,7 @@ Try to predict the stock price from the offered data.
 
 Applied three different approaches.
 
-**ARIMA with one stock**
+**ARIMA with one stock(best performance)**
 
 try arima with msft
 
